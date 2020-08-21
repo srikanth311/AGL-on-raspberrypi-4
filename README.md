@@ -124,9 +124,9 @@ xzcat agl-demo-platform-raspberrypi4-64-20200820181620.rootfs.wic.xz | sudo dd o
 * Connect Mouse, Keyboard to the Raspberrypi 4
 * Connect to the monitor using micro HDMI to HDMI cable.
 * Powerup the Raspberry pi.
-* You will see the picture on your monitor as below.
+* You will see the picture on your monitor as below. By default the screen orientataion horizontally.
 
-![Alt text](Images/homescreen.png?raw=true "Home Screen")
+![Alt text](Images/agl-homescreen.jpg?raw=true "Home Screen")
 
 ##### **Step 8: Login to Shell**
 * To connect to shell, from the online research i found 2 ways
